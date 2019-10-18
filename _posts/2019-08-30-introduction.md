@@ -6,7 +6,7 @@ image: /img/20190815_181346.jpg
 tags: [PPMM]
 ---
 
-### Polypolar Magnetic Motor 
+### Poly-Polar Magnet Motor 
 
 I am developing a [permanent magnet motor](/tags#PPMM) prototype intended for bicycles and wheelchairs. If it proves successful, as my proof-of-concept tests suggest, it will require far fewer batteries, weigh less, and have greater range than electromagnetic motor-based products. The system needs just enough to power the small 10W actuators, an arduino microcontroller, and bluetooth communications. 
 
