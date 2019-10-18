@@ -10,7 +10,7 @@ description: A Practical, Compact Permanent Magnet Motor
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: "schurch-motor.technology"
+# url: "www.schurch-motor.technology" # Let gh-pages guess, per https://github.com/daattali/beautiful-jekyll/pull/506
 
 # baseurl should be an empty string
 #baseurl: ""
@@ -63,7 +63,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "info@schurch-motor.technology "
+  email: "info@schurch-motor.technology"
   facebook: 
   github: 
   twitter: 
@@ -151,7 +151,7 @@ date_format: "%B %-d, %Y"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "America/New_York"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
