@@ -8,7 +8,7 @@ tags: [PPMM]
 
 ### Polypolar Magnetic Motor 
 
-I am developing a [permanent magnet motor](schurch-motor.technology/tags#PPMM) prototype intended for bicycles and wheelchairs. If it proves successful, as my proof-of-concept tests suggest, it will require far fewer batteries, weigh less, and have greater range than electromagnetic motor-based products. The system needs just enough to power the small 10W actuators, an arduino microcontroller, and bluetooth communications. 
+I am developing a [permanent magnet motor](/tags#PPMM) prototype intended for bicycles and wheelchairs. If it proves successful, as my proof-of-concept tests suggest, it will require far fewer batteries, weigh less, and have greater range than electromagnetic motor-based products. The system needs just enough to power the small 10W actuators, an arduino microcontroller, and bluetooth communications. 
 
 Many academics believe permanent magnet motors are impossible. It's not impossible, just difficult. There are in fact a few working, patented permanent magnet motors, such as:
 
