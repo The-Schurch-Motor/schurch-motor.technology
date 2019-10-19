@@ -2,7 +2,6 @@
 layout: post
 title: Introduction to the Schürch Motor
 bigimg: /img/20190815_181346.jpg
-image: /img/20190815_181346.jpg
 tags: [PPMM]
 ---
 
