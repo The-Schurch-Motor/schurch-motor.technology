@@ -2,7 +2,6 @@
 layout: post
 title: Successful Poly-Polar Magnet Motor Proof of Concept Test
 bigimg: /img/20190815_181346.jpg
-image: /joseph.jpg
 tags: [PPMM, tests]
 ---
 
