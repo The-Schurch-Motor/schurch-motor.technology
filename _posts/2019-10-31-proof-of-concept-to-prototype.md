@@ -5,7 +5,7 @@ bigimg: /img/20190815_181346.jpg
 tags: [PPMM, pitch]
 ---
 
-For many people I've talked with, it's clear what the proof of concept shows or why it is a guarantee that a prototype is possible. I'm going to explain that in this article.
+For many people I've talked with, it's not immediately clear what the proof of concept shows or why it is a guarantee that a prototype is possible. I'm going to explain that in this article.
 
 ## Essential principles
 
