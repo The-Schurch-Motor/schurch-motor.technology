@@ -37,7 +37,7 @@ The possible variables are many, so I will start with describing the simplest st
 
 When two mates are axially aligned and allowed to attract naturally, they also rotate to self-align at the same angle (I'll call this the 'zero' or 'top dead center' [TDC]) and have maximum normal attraction force, as a function of distance - determined by the mechanical gap constraint mentioned above. A rotor having such magnets embedded within has a minimum tolerance at which the force of the magnets can bend the rotor and 'crash' the magnets. A gap of 0.5 mm is at least a practical parameter. Closer tolerances have to withstand exponentially higher normal forces between magnets and involve expensive materials, and these costs must be balanced against the fact that the forces exploited are lateral and component forces, not the normal forces.
 
-![graph of holding force v distance][img/1122-force-v-distance.png]
+![graph of holding force v distance](/img/1122-force-v-distance.png)
 
 A quarter turn of one mate in this configuration of linear freedom will result in a rapid release of attraction and reversal to repulsion. The field of repulsion is narrow, thus as the mate is pushed away, it soon enters another attraction phase, beginning at about one half the diameter of the magnet. A second quarter turn initiates another repulsion cycle, pushing it completely outside the diameter of its mate, whereupon the mutual influence again reverses to attraction but drops off sharply with distance so that it is negligible in comparison to another pair station coming into interaction at the same moment.
 
@@ -47,9 +47,9 @@ Each station under rotation phases can be considered a rapid series of attractio
 
 There is undoubtedly a net torque of the rotor ; the question to be answered then, is whether the net torque exceeds the sum of input torques required to rotate the magnets, under precise computer control. My experiments show that this is 'yes'  -- by a factor of perhaps 10 to 1. Sophisticated instruments will be needed to accurately measure this.
 
-![graph of holding force v rotation](img/1122-hold-v-rotation.png)
+![graph of holding force v rotation](/img/1122-hold-v-rotation.png)
 
-![graph of torque v rotation](img/1122-torque-v-rotation.png)
+![graph of torque v rotation](/img/1122-torque-v-rotation.png)
 
 Here according to the graphs, at 1.5mm gap, the ratio of maximum torque to maximum holding force is instructive: 
 
